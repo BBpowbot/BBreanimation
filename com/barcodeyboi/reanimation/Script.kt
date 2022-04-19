@@ -128,7 +128,6 @@ class Script : TreeScript() {
         addPaint()
         checkEquipmentRequirement()
         checkMagicRequirement()
-        val t = "t"
     }
 
     @ValueChanged("Spell")
