@@ -23,7 +23,8 @@ import java.util.logging.Logger
     description = "Reanimates ensouled heads for prayer experience.",
     version = "1.0",
     category = ScriptCategory.Prayer,
-    author = "barcodeyboi"
+    author = "barcodeyboi",
+
 )
 @ScriptConfiguration.List(
     [
